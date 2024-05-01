@@ -38,7 +38,7 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 
 ```
-Paper Rings,Ten,Ross,Legends,Lucky,Mockingjay
+Paper Rings 10 Meets Past Lucky Star
 
 
 
